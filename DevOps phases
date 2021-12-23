@@ -1,0 +1,10 @@
+DevOps phases :-
+
+Plan - in this stage business owner and software development team discuss project goals and create a plan
+Code - In the code stage programmers then design and code the application and use tools like git to store application code
+Build - In this stage Build tools like Maven and Gradle take code from different repositories and combine them to build the complete application 
+Test - In this stage Application is tested using an automation tools like Selenium  and Junit to ensure software qualitybuild the complete application
+Integration - In this stage when testing is complete new features are integrated automatically into the already existing code base
+Deploy - In this stage Application is packaged after release and deployed from development server to production
+Operate - In this stage once the software is deployed Operation teams perform activities such as configuring servers and provisioning them with the required resources
+Monitoring - In this stage Monitoring allows IT organizations to identify specific issues of specific releases and understand the impact on end-user
